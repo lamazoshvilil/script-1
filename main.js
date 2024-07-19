@@ -1,0 +1,10 @@
+console.log("hello my name is Lasha Lamazoshvili");
+console.log("5+7");
+console.log("25+20=", 25 + 20);
+console.log("500/20=", 500/20);
+console.log("20*3=", 20*3);
+console.log("3**3=", 3**3);
+console.log("81**(1/2)=", 81** (1/2) );
+console.log("25 % 4 =", 25 % 4);
+console.log("(2**3)**(1/2)", (2**3)**(1/2));
+console.log("A question related to main.js");
