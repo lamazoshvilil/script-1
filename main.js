@@ -7,4 +7,5 @@ console.log("3**3=", 3**3);
 console.log("81**(1/2)=", 81** (1/2) );
 console.log("25 % 4 =", 25 % 4);
 console.log("(2**3)**(1/2)", (2**3)**(1/2));
-console.log("A question related to main.js");
+console.log("A question related" + "to main.js");
+console.log("I think I have" + "completed the task");
